@@ -9,3 +9,7 @@ Personality: Patient, nurturing, and the voice of reason in the family. She has 
 Bart Simpson:
 Age: 10
 Personality: Mischievous, rebellious, and often a troublemaker. He is known for his catchphrase, "Eat my shorts!" and is the eldest son of the family.
+
+Lisa Simpson:
+Age: 8
+Personality: Intelligent, socially conscious, and musically talented. She is the voice of moral reason in the family and plays the saxophone.
