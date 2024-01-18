@@ -13,3 +13,8 @@ Personality: Mischievous, rebellious, and often a troublemaker. He is known for 
 Lisa Simpson:
 Age: 8
 Personality: Intelligent, socially conscious, and musically talented. She is the voice of moral reason in the family and plays the saxophone.
+
+Maggie Simpson:
+Age: 1
+Notable Feature: Rarely seen without her pacifier.
+Personality: Despite being a baby, Maggie often displays intelligence and resourcefulness. She is the youngest member of the Simpson family.
