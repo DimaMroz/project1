@@ -1,8 +1,11 @@
 Homer Simpson:
-
 Occupation: Safety Inspector at the Springfield Nuclear Power Plant
 Personality: Lazy, bumbling, but lovable father of the Simpson family. Known for his catchphrase, "D'oh!"
-Marge Simpson:
 
+Marge Simpson:
 Occupation: Homemaker
 Personality: Patient, nurturing, and the voice of reason in the family. She has tall blue hair and is known for her distinctive voice.
+
+Bart Simpson:
+Age: 10
+Personality: Mischievous, rebellious, and often a troublemaker. He is known for his catchphrase, "Eat my shorts!" and is the eldest son of the family.
