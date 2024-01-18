@@ -2,3 +2,7 @@ Homer Simpson:
 
 Occupation: Safety Inspector at the Springfield Nuclear Power Plant
 Personality: Lazy, bumbling, but lovable father of the Simpson family. Known for his catchphrase, "D'oh!"
+Marge Simpson:
+
+Occupation: Homemaker
+Personality: Patient, nurturing, and the voice of reason in the family. She has tall blue hair and is known for her distinctive voice.
